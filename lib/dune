@@ -1,0 +1,3 @@
+(library
+ (name tree)
+ (flags :standard -warn-error -9-32-34-37))
